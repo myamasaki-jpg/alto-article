@@ -836,7 +836,7 @@ a {
 .site-footer {
   background: var(--navy);
   color: rgba(255, 255, 255, 0.88);
-  padding: 22px 0 88px;
+  padding: 11px 0 22px;
 }
 
 .footer-inner {
