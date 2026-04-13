@@ -130,6 +130,8 @@ a {
   letter-spacing: 0.08em;
   color: var(--pink);
   text-transform: uppercase;
+  text-align: center;
+
 }
 
 .section-label {
@@ -138,7 +140,7 @@ a {
 }
 
 .hero-copy-panel {
-  width: min(100%, 980px);
+  width: min(100%, 1920px);
   margin: 0 auto;
   background: rgba(255, 255, 255, 0.92);
   border: 1px solid rgba(0, 21, 95, 0.08);
@@ -337,7 +339,7 @@ a {
 }
 
 .trust-strip {
-  padding: 8px 0 18px;
+  padding: 18px 0 18px;
 }
 
 .trust-strip-inner {
