@@ -192,7 +192,7 @@ details[open] summary::after { content: "−"; }
   .product-intro { grid-template-columns: 1.2fr 1fr; }
   .answer-fact { font-size: 1.0625rem; }
   .answer-title { min-width: 155px; }
-  .answer-cost { display: grid; grid-template-columns: 155px 1fr; gap: 30px; }
+  .answer-cost { display: block; }
   .answer-with-image { grid-template-columns: 1.5fr 1fr; gap: 70px; }
   .cta-block { margin-top: 40px; }
   .specs { padding-top: 0; }
